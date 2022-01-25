@@ -1,5 +1,3 @@
-![IMG](https://skiinginrussia.com/wp-content/uploads/2020/01/luzhba-2019_01-scaled-846x400.jpg)
-
 - 🧛‍♂️ My name is Vladimir (**SineYlo**)         
 - 💻 Full-stack Web-developer
 - 🕒 At work 24/7
