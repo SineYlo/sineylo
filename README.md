@@ -1,4 +1,4 @@
-![IMG](https://i.ibb.co/3sgp1L1/Home.png)
+![IMG](https://dp.informator.ua/wp-content/uploads/2017/01/moroz-2.jpg)
 
 - 🧛‍♂️ My name is Vladimir (**SineYlo**)         
 - 💻 Full-stack Web-developer
