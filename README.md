@@ -1,4 +1,4 @@
-![IMG](https://i.ibb.co/3RjKXnT/Home.png)
+![IMG](https://i.ibb.co/j9CVkPK/Home.png)
 
 - 🧛‍♂️ My name is Vladimir (**SineYlo**)         
 - 💻 Full-stack Web-developer
