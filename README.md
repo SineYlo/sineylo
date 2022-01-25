@@ -1,5 +1,3 @@
-![ALT](/test.png)
-
 - 🧛‍♂️ My name is Vladimir (**SineYlo**)         
 - 💻 Full-stack Web-developer
 - 🕒 At work 24/7
