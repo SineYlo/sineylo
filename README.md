@@ -1,3 +1,3 @@
-![part-1](/separation-vertical-part-one-green.png)
-![part-2](/separation-vertical-part-two-green.png)
-![part-3](/separation-vertical-part-three-green.png)
+![part-1](/banner-part-1.png)
+![part-2](/banner-part-2.png)
+![part-3](/banner-part-3.png)
