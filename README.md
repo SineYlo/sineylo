@@ -1,3 +1,3 @@
-![part-1](/part-1.png)
-![part-2](/part-2.png)
-![part-3](/part-3.png)
+![part-1](/separation-vertical-part-one-green.png)
+![part-2](/separation-vertical-part-two-green.png)
+![part-3](/separation-vertical-part-three-green.png)
